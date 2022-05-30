@@ -5,7 +5,7 @@ eureka:
   client:
     register-with-eureka: false
     service-url:
-      defaultZone: http://localhost:7001/eureka,http://192.168.0.100:7002/eureka/
+      defaultZone: http://localhost:7001/eureka,http://192.168.0.110:7002/eureka/
 
 #设置feign客户端超时时间(OpenFeign默认支持ribbon)
 ribbon:

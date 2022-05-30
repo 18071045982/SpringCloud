@@ -1,0 +1,8 @@
+{
+  "properties": [
+    {
+      "name": "spring.cloud.sentinel.web-context-unify",
+      "type": "java.lang.String",
+      "description": "Description for spring.cloud.sentinel.web-context-unify."
+  }
+] }
